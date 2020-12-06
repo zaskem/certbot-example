@@ -13,3 +13,5 @@ Appropriate pause commands are scattered throughout to help bring order to chaos
 
 ## How to Configure
 Details about how this process came about/how to modify and use can be found at the original post: https://mzonline.com/blog/2020-11/certbot-manual-mode-script-hooks
+
+An overview of the my entire journey through using Certbot is at https://mzonline.com/blog/2020-11/automating-certbot-recap-my-journey
